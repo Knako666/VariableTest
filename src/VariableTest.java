@@ -12,7 +12,7 @@ public class VariableTest {
 
 
 
-        int year=1949;  //定义一个名为“year”的 int(整型)变量，给其赋值为1949
+        int year=1948;  //定义一个名为“year”的 int(整型)变量，给其赋值为1949
         /*
         Java中有8种基本数据类型：
                                                     整型（4种）：byte(8位/1字节)、short(16位/2字节)、int(32位/4字节)、long(64位/8字节)
